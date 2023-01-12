@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey, I'm aoliaoaoaojiao ✨🚀✨
+
+[![Github](https://img.shields.io/github/followers/aoliaoaoaojiao?label=Follow&style=social)](https://github.com/debugtalk)
+
+- Golang & Java developer
+
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aoliaoaoaojiao&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![debugtalk's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=aoliaoaoaojiao&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&line_height=29)
