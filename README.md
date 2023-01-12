@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - Golang & Java developer
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aoliaoaoaojiao&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![debugtalk's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=aoliaoaoaojiao&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&line_height=29)
+![aoliaoaoaojiao's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aoliaoaoaojiao&include_orgs=true)
