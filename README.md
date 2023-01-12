@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ### Hey, I'm aoliaoaoaojiao ✨🚀✨
 
-[![Github](https://img.shields.io/github/followers/aoliaoaoaojiao?label=Follow&style=social)](https://github.com/aoliaoaoaojiao)
+<!--[![Github](https://img.shields.io/github/followers/aoliaoaoaojiao?label=Follow&style=social)](https://github.com/aoliaoaoaojiao)-->
+
+![aoliaoaoaojiao's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aoliaoaoaojiao&include_orgs=true)
 
 - Golang & Java developer
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aoliaoaoaojiao&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![aoliaoaoaojiao's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aoliaoaoaojiao&include_orgs=true)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aoliaoaoaojiao&langs_count=10&role=OWNER,COLLABORATOR)
