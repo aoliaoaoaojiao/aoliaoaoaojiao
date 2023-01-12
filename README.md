@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hey, I'm aoliaoaoaojiao ✨🚀✨
 
-[![Github](https://img.shields.io/github/followers/aoliaoaoaojiao?label=Follow&style=social)](https://github.com/debugtalk)
+[![Github](https://img.shields.io/github/followers/aoliaoaoaojiao?label=Follow&style=social)](https://github.com/aoliaoaoaojiao)
 
 - Golang & Java developer
 
