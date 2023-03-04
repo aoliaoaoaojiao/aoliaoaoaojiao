@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ![aoliaoaoaojiao's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aoliaoaoaojiao&include_orgs=true)
 
-- Golang & Java developer
+- Golang & Java test developer
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aoliaoaoaojiao&langs_count=10&role=OWNER,COLLABORATOR)
